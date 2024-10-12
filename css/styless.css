@@ -1,0 +1,11 @@
+.h1{
+    text-align: center;
+}
+
+.img{
+    border-image-width: 40px;
+}
+
+.button{
+    background-color: #4CAF50;
+}
